@@ -7,7 +7,7 @@ A sleek and modern sidebar navigation menu with a stunning full-screen backgroun
 ## 🚀 Live Demo
 
 #### 🔗 Demo Link  
-https://sudhanshu-101.github.io/responsive-navigation-menu/
+https://sudhanshuverse.github.io/responsive-navigation-menu/
 
 #### 📸 Preview Screenshot
 
